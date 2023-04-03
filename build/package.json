@@ -1,0 +1,14 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+      "client": "snowpack dev"
+      
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
